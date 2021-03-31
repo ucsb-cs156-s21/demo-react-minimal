@@ -24,7 +24,6 @@ jobs:
           npm install
           npm run build-storybook
       - name: Deploy 🚀
-        working-directory: ./javascript
         uses: JamesIves/github-pages-deploy-action@4.1.0
         with:
           repository_name: ucsb-cs156-s21/demo-react-minimal-docs
