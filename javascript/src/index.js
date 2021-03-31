@@ -2,7 +2,6 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
 import App from "main/App";
-import Auth0ProviderWithHistory from "main/components/Auth/Auth0ProviderWithHistory";
 import { BrowserRouter } from "react-router-dom";
 import * as serviceWorker from "./serviceWorker";
 import "bootstrap/dist/css/bootstrap.css";
@@ -10,9 +9,7 @@ import "bootstrap/dist/css/bootstrap.css";
 ReactDOM.render(
   <React.StrictMode>
     <BrowserRouter>
-      <Auth0ProviderWithHistory>
-        <App />
-      </Auth0ProviderWithHistory>
+      <App />
     </BrowserRouter>
   </React.StrictMode>,
   document.getElementById("root")
