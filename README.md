@@ -1,4 +1,4 @@
-# demo-spring-react-minimal
+# demo-react-minimal
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-s21/demo-react-minimal/branch/main/graph/badge.svg)](https://codecov.io/gh/ucsb-cs156-s21/demo-react-minimal)
 
