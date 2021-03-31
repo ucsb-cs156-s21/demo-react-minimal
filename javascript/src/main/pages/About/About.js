@@ -7,10 +7,12 @@ const About = () => {
       <div className="text-left">
         <p>Welcome to (Changeme To App Name)!</p>
         <p>
-          This app can hopefully help you understand how to use React with
-          Spring in order to create a functional web application. This app is
-          primarily built using the following:
+          This app can hopefully help you understand how to work with a code
+          base created initially with Create React App, and then customized for
+          use in CMPSC 156 at UCSB.
         </p>
+        <p>This repo is similar to t</p>
+        <p>Some tools used to create this app:</p>
         <ul>
           <li>
             <a href="https://github.com/facebook/create-react-app">
@@ -19,8 +21,12 @@ const About = () => {
             - used for creating the React frontend from scratch
           </li>
           <li>
-            <a href="https://start.spring.io/">Spring Boot Initializer</a> -
-            used for creating the Spring Boot backend
+            <a href="https://jestjs.io/">Jest</a> - a testing framework for
+            JavaScript
+          </li>
+          <li>
+            <a href="https://storybook.js.org/">Storybook</a> - used to provide
+            a way to look at React Components in isolation
           </li>
         </ul>
       </div>
