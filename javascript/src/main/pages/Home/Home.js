@@ -1,10 +1,7 @@
 import React from "react";
 import { Jumbotron } from "react-bootstrap";
-import { useAuth0 } from "@auth0/auth0-react";
 
 const Home = () => {
-  const { _isAuthenticated } = useAuth0();
-
   return (
     <Jumbotron>
       <div className="text-left">
