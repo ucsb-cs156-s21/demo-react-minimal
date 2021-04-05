@@ -2,6 +2,10 @@
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-s21/demo-react-minimal/branch/main/graph/badge.svg)](https://codecov.io/gh/ucsb-cs156-s21/demo-react-minimal)
 
+# Documentation
+
+See: <https://ucsb-cs156-s21.github.io/demo-react-minimal-docs>
+
 ## Purpose
 
 This app is a course project of <https://ucsb-cs156.github.io>, a course at [UC Santa Barbara](https://ucsb.edu).
