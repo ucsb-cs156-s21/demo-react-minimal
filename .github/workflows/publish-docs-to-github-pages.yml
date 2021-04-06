@@ -1,11 +1,9 @@
 
-name: Publish docs (Storyboard) to GitHub Pages
+name: Publish docs (Storybook) to GitHub Pages
 on: 
   push:
     branches:
       - main
-    # Trigger the action only when files change in the folders defined here
-    paths: ["stories/**", "src/components/**", ".github/workflows/**"] 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
