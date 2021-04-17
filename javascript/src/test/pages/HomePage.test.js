@@ -1,9 +1,9 @@
 import React from "react";
 import { render } from "@testing-library/react";
-import About from "main/pages/About/About";
+import HomePage from "main/pages/HomePage";
 
-describe("About tests", () => {
+describe("HomePage tests", () => {
   test("renders without crashing", () => {
-    render(<About />);
+    render(<HomePage />);
   });
 });

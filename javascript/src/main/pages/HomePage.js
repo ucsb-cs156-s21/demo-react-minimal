@@ -1,7 +1,7 @@
 import React from "react";
 import { Jumbotron } from "react-bootstrap";
 
-const Home = () => {
+const HomePage = () => {
   return (
     <Jumbotron>
       <div className="text-left">
@@ -12,4 +12,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default HomePage;
