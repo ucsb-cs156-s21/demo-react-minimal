@@ -4,7 +4,8 @@
 
 # Documentation
 
-See: <https://ucsb-cs156-s21.github.io/demo-react-minimal-docs>
+* Production Version: <https://ucsb-cs156-s21.github.io/demo-react-minimal-docs>
+* QA Version: <https://ucsb-cs156-s21.github.io/demo-react-minimal-docs-qa>
 
 ## Purpose
 
