@@ -11,7 +11,10 @@ const About = () => {
           base created initially with Create React App, and then customized for
           use in CMPSC 156 at UCSB.
         </p>
-        <p>This repo is similar to t</p>
+        <p>
+          This repo can be used as a base for creating apps that have only a
+          React front end, and require no backend code.
+        </p>
         <p>Some tools used to create this app:</p>
         <ul>
           <li>
