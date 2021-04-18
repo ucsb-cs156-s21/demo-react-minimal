@@ -1,6 +1,7 @@
 import React from "react";
 
-import AppFooter from "main/components/Footer/AppFooter";
+// INTENTIALLY BREAKING THE STORY BOOK
+// import AppFooter from "main/components/Footer/AppFooter";
 
 export default {
   title: "components/Footer/AppFooter",
